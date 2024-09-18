@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+img{
+    height: 35%;
+    width: 40%;
+    margin-left:30%;
+    border: 3px solid black;
+
+}
+
+p{
+    font-size:30px;
+    text-align: center;
+    
+}
+
+body{
+    background-image: repeating-linear-gradient(to  bottom right, white, black);
+}
+
+.honk{
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+  }
+  
